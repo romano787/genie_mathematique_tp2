@@ -4,7 +4,7 @@ TP2 Génie mathématique
 
 Bonjour monsieur,
 
-Voici le TP2 en Génie mathématique. Bonne lecture !
+Voici le TP2 de Génie mathématique. Bonne lecture !
 
 Cordialement,
 
